@@ -1,0 +1,5 @@
+*.o 
+*.exe
+base.c
+time.pl
+generate.pl
