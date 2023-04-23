@@ -1,4 +1,4 @@
-#define SIZE 65536
+#define SIZE 131072
 #include <stdlib.h>
 #include <time.h>
 
